@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\user\Documents\ALTIUM\CUSTOM_LIBRARY\MachadaLibs\integrated_circuits-stm32.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+STM32H747XIH6       (Missing Pin Number In Sequence : F6,F7,F8,F9,F10,F11,F12 [F1..F17]) 
